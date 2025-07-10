@@ -1,0 +1,12 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+#root{
+  text-align: center;
+
+  align-items: center;
+  background-color: black;
+  padding: 0;
+  margin: 0;
+}
